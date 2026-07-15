@@ -729,7 +729,7 @@ p {
 }
 
 .timeline__card.expanded .timeline__card-body {
-  max-height: 600px;
+  max-height: 2000px;
 }
 
 .timeline__card-body ul {
